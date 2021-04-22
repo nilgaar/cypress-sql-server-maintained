@@ -1,0 +1,29 @@
+{
+  "name": "cypress-sql-server-maintained",
+  "version": "0.0.1",
+  "description": "A manteined version of the cypress-sql-server library, with updates and fixes.",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilgaar/cypress-sql-server-maintained.git"
+  },
+  "keywords": [
+    "cypress",
+    "sql"
+  ],
+  "author": "Nil Gallego Arcusa",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/nilgaar/cypress-sql-server-maintained/issues"
+  },
+  "homepage": "https://github.com/nilgaar/cypress-sql-server-maintained#readme",
+  "dependencies": {
+    "tedious": "^11.0.7"
+  },
+  "devDependencies": {
+    "cypress": "^7.1.0"
+  }
+}
